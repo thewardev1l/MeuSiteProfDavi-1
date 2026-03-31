@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Five Nights at Freddy's: O pesadelo sem fim",
-    imagem: "fnafilme.jpg",
-    descricao: "O filme Five Nights at Freddy's (2023) segue Mike Schmidt, um segurança noturno problemático que aceita emprego em uma pizzaria abandonada, a Freddy Fazbear's Pizza. Ele descobre que os animatrônicos do local são possuídos pelos espíritos de crianças desaparecidas nos anos 80, orquestrado por William Afton, um serial killer que se disfarça."
+    titulo: "Sonic 3: O Filme",
+    imagem: "SONIC3.jpg",
+    descricao: "Em Sonic 3 - O Filme (2024), o ouriço azul se une a Tails e Knuckles para enfrentar Shadow, um rival misterioso e poderoso com poderes incomparáveis. Com a ameaça de vingança de Shadow contra a humanidade, o grupo faz uma aliança improvável com o Dr. Robotnik (Jim Carrey) para salvar o mundo."
     }
     
     ];
@@ -13,9 +13,9 @@ let filmes = [
     let series = [
     
     {
-    titulo: "Dexter",
-    imagem: "dextermorgan.jpg",
-    descricao: "Dexter é uma aclamada série que acompanha Dexter Morgan (Michael C. Hall), um analista forense especializado em padrões de sangue para a polícia de Miami que, secretamente, é um assassino em série. Assombrado por traumas de infância, ele segue um código de Harry ensinado por seu pai adotivo para canalizar seus impulsos, matando apenas outros criminosos que escaparam do sistema judicial."}
+    titulo: "Arcane",
+    imagem: "arcane.jpg",
+    descricao: "Arcane (Netflix) é uma série de animação baseada no universo de League of Legends que narra a origem das irmãs Vi e Jinx. A trama se desenrola em meio à crescente tensão entre a cidade utópica de Piltover e a obscura e oprimida Zaun, focando em conflitos ideológicos, desigualdade social e o uso da tecnologia mágica Hextec."}
 
     
     ];

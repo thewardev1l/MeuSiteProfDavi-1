@@ -1,12 +1,12 @@
 body{
-    font-family: Arial;
-    background: linear-gradient(to right,#000000,#141414);
-    color:white;
+    font-family: Helvetica;
+    background: linear-gradient(to right,#000000,#000000);
+    color:rgb(255, 255, 255);
     text-align:center;
 }
 
 h1{
-    color:#e50914;
+    color:#ffffff;
 }
 
 .perfil{
@@ -17,7 +17,7 @@ h1{
     width:200px;
     height:200px;
     border-radius:50%;
-    border:3px solid #e50914;
+    border:5px solid #ffffff;
 }
 
 .container{
@@ -28,14 +28,14 @@ h1{
 }
 
 .lista{
-    width:300px;
+    width:350px;
 }
 
 .card{
-    background:#1f1f1f;
+    background:#2d3340;
     border-radius:10px;
-    margin:20px;
-    padding:15px;
+    margin:25px;
+    padding:20px;
 }
 
 .card img{
@@ -48,6 +48,6 @@ h1{
 }
 
 .card p{
-    font-size:14px;
+    font-size:18px;
     color:#ccc;
 }
