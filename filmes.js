@@ -59,11 +59,11 @@ export const series = [
         trailer: "b9EkMc79ZSU?si=86n3gs4YyGFpPgkt"
     },
     {
-        id: "justiceiro",
-        titulo: "justiceiro",
-        imagem: "Imagens/justiceiro.jpg",
-        descricao: "O filme mais famoso de Frank Castle, O Justiceiro (2004), acompanha o agente do FBI Frank Castle (Thomas Jane), que se aposenta após uma última operação que resulta na morte de um jovem criminoso.",
-        trailer: "cPW-XZYONXI?si=VwBDHeY7phypz4IA"
+        id: "Avatar",
+        titulo: "Avatar: A Lenda de Aang",
+        imagem: "avatar.jpg",
+        descricao: "Em um mundo dividido em quatro nações elementares (Água, Terra, Fogo e Ar), Aang é um garoto de 12 anos que acorda após cem anos preso em um iceberg. Sendo o Avatar, a única pessoa capaz de controlar os quatro elementos, ele deve restaurar a paz e deter os ataques expansionistas da Nação do Fogo.",
+        trailer: "8E5oyWQ3Ze0?si=iBtv-WLAwnt0GY6I"
     },
     {
         id: "Breaking Bad",
