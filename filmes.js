@@ -10,19 +10,19 @@ export const filmes = [
     },
 
     {
-        id: "Batman cavaleiro das trevas",
-        titulo: "Batman cavaleiro das trevas",
-        imagem: "Imagens/batman cavaleiros das trevas.jpg",
-        descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos.",
-        trailer: "moYNBUgN2nE?si=fHXHr0o5Gz3lA7ux"
+        id: "It A Coisa",
+        titulo: "It A Coisa",
+        imagem: "itacoisa.jpg",
+        descricao: "Crianças começam a sumir na cidade de Derry, no Maine. Sete jovens do 'Clube dos Perdedores' enfrentam um monstro antigo.",
+        trailer: "dD264ZjfKlk?si=MrftEXoe0k1SX-q9"
     },
 
     {
         id: "coringa",
         titulo: "coringa",
         imagem: "Imagens/coringa.jpg",
-        descricao: "Em Gotham City, o comediante falido Arthur Fleck (Joaquin Phoenix) trabalha como palhaço e vive isolado nas margens da sociedade. Sofrendo de problemas de saúde mental e constantemente maltratado e ignorado pelo mundo ao seu redor.",
-        trailer: "jfVTJm9NilA?si=upohrxZTctdA0fWY"
+        descricao: "Crianças começam a sumir na cidade de Derry, no Maine. Sete jovens do 'Clube dos Perdedores' enfrentam um monstro antigo.",
+        trailer: "dD264ZjfKlk?si=MrftEXoe0k1SX-q9"
     },
 
     {
@@ -54,7 +54,7 @@ export const series = [
     {
         id: "Stranger Things",
         titulo: "Stranger Things",
-        imagem: "Imagens/stranger things.jpg",
+        imagem: "strangerthings.jpg",
         descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
         trailer: "b9EkMc79ZSU?si=86n3gs4YyGFpPgkt"
     },
@@ -68,28 +68,28 @@ export const series = [
     {
         id: "Breaking Bad",
         titulo: "Breaking Bad",
-        imagem: "Imagens/breaking bad.jpg",
+        imagem: "breakingbad.jpg",
         descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
         trailer: "tWji6p3FxK0?si=mYxXFttPyrgmxDtG"
     },
     {
-        id: !"Peaky Blinders",
+        id: "Peaky Blinders",
         titulo: "Peaky Blinders",
-        imagem: "Imagens/peaky blinders.jpg",
+        imagem: "peakyblinders.jpg",
         descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
         trailer: "K-RoN7MA5V8?si=IPUFNCxlRRCHjDru"
     },
     {
         id: "Round 6",
         titulo: "Round 6",
-        imagem: "Imagens/round 6.jpg",
+        imagem: "round6.jpg",
         descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda.",
         trailer: "xqkmwzZMy7Q?si=VCulb6Fe4uWiGT-o"
     },
     {
         id: "La casa de papel",
-        titulo: "La casa de papel",
-        imagem: "Imagens/la casa de papel.jpg",
+        titulo: "La Casa de Papel",
+        imagem: "lacasadepapel.jpg",
         descricao: "Um homem genial conhecido como O Professor recruta oito criminosos com codinomes de cidades para invadir a Casa da Moeda da Espanha.",
         trailer: "To_kVMMu-Ls?si=akYCUR9VNfPJ_2VM"
     }
