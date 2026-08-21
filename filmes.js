@@ -4,7 +4,7 @@ export const filmes = [
     {
         id: "interestelar",
         titulo: "Interestelar",
-        imagem: "Imagens/interstellar.jpg",
+        imagem: "interstelar.jpg",
         descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
         trailer: "i6avfCqKcQo?si=c67bqEGle7cgphln"
     },
@@ -18,33 +18,33 @@ export const filmes = [
     },
 
     {
-        id: "coringa",
-        titulo: "coringa",
-        imagem: "Imagens/coringa.jpg",
+        id: "Vorazes",
+        titulo: "Jogos Vorazes",
+        imagem: "vorazes.jpg",
         descricao: "Crianças começam a sumir na cidade de Derry, no Maine. Sete jovens do 'Clube dos Perdedores' enfrentam um monstro antigo.",
         trailer: "dD264ZjfKlk?si=MrftEXoe0k1SX-q9"
     },
 
     {
-        id: "homem de ferro",
-        titulo: "homem de ferro",
-        imagem: "Imagens/homem de ferro 1.jpg",
-        descricao: "conta a história de Tony Stark (Robert Downey Jr.), um industrial bilionário, gênio e fabricante de armas que é sequestrado por um grupo terrorista no Afeganistão. ",
+        id: "Homem de Ferro",
+        titulo: "Homem de Ferro",
+        imagem: "homemdeferro.jpg",
+        descricao: "Conta a história de Tony Stark, um industrial bilionário, gênio e fabricante de armas que é sequestrado por um grupo terrorista no Afeganistão.",
         trailer: "aKkud2sqd1o?si=fFQAv_s-dupSmIIk"
     },
 
     {
-        id: "Homem Aranha novo dia",
-        titulo: "Homem Aranha novo dia",
-        imagem: "Imagens/homem aranha 4.jpg",
-        descricao: "quatro anos após Sem Volta Para Casa, Peter Parker vive totalmente sozinho em Nova York, após se apagar da memória de todos.",
+        id: "Homem Aranha Um Novo  Dia", 
+        titulo: "Homem Aranha Um Novo Dia",
+        imagem: "homemaranhanovodia.jpg",
+        descricao: "Quatro anos após Sem Volta Para Casa, Peter Parker vive totalmente sozinho em Nova York, após se apagar da memória de todos.",
         trailer: "PlulyWs1kS4?si=0Nto6VP_TdzjBAzI"
     },
 
     {
         id: "Capitao América Guerra Civil",
         titulo: "Capitão América: Guerra Civil",
-        imagem: "Imagens/capitao america guerra civil.jpg",
+        imagem: "capitaoamericaguerracivil.jpg",
         descricao: "Após danos colaterais em missões dos Vingadores, a ONU propõe o Tratado de Sokovia, um acordo para regulamentar e controlar a equipe.",
         trailer: "FRLYZn5PGuA?si=2LqZ5tjLbpu-3Ttk"
     }
