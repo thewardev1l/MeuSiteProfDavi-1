@@ -4,49 +4,85 @@ export const filmes = [
     {
         id: "interestelar",
         titulo: "Interestelar",
-        imagem: "interstelar.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
-        trailer: "i6avfCqKcQo?si=c67bqEGle7cgphln"
+        trailer: "i6avfCqKcQo?si=c67bqEGle7cgphln",
+
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
 
     {
-        id: "It A Coisa",
-        titulo: "It A Coisa",
-        imagem: "itacoisa.jpg",
-        descricao: "Crianças começam a sumir na cidade de Derry, no Maine. Sete jovens do 'Clube dos Perdedores' enfrentam um monstro antigo.",
-        trailer: "dD264ZjfKlk?si=MrftEXoe0k1SX-q9"
+        id: "Batman",
+        titulo: "Batman",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos.",
+        trailer: "ID_YOUTUBE",
+
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
 
     {
-        id: "Vorazes",
-        titulo: "Jogos Vorazes",
-        imagem: "vorazes.jpg",
-        descricao: "Crianças começam a sumir na cidade de Derry, no Maine. Sete jovens do 'Clube dos Perdedores' enfrentam um monstro antigo.",
-        trailer: "dD264ZjfKlk?si=MrftEXoe0k1SX-q9"
+        id: "Ong Bak",
+        titulo: "Ong Bak",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa.",
+        trailer: "ID_YOUTUBE",
+
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
 
     {
-        id: "Homem de Ferro",
-        titulo: "Homem de Ferro",
-        imagem: "homemdeferro.jpg",
-        descricao: "Conta a história de Tony Stark, um industrial bilionário, gênio e fabricante de armas que é sequestrado por um grupo terrorista no Afeganistão.",
-        trailer: "aKkud2sqd1o?si=fFQAv_s-dupSmIIk"
+        id: "Kung-Fusão",
+        titulo: "Kung-Fusão",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "A história acompanha Sing, um malandro trapalhão que tenta entrar para a temida Gangue do Machado.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
 
     {
-        id: "Homem Aranha Um Novo  Dia", 
-        titulo: "Homem Aranha Um Novo Dia",
-        imagem: "homemaranhanovodia.jpg",
-        descricao: "Quatro anos após Sem Volta Para Casa, Peter Parker vive totalmente sozinho em Nova York, após se apagar da memória de todos.",
-        trailer: "PlulyWs1kS4?si=0Nto6VP_TdzjBAzI"
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
 
     {
-        id: "Capitao América Guerra Civil",
+        id: "Capitão América: Guerra Civil",
         titulo: "Capitão América: Guerra Civil",
-        imagem: "capitaoamericaguerracivil.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: "Após danos colaterais em missões dos Vingadores, a ONU propõe o Tratado de Sokovia, um acordo para regulamentar e controlar a equipe.",
-        trailer: "FRLYZn5PGuA?si=2LqZ5tjLbpu-3Ttk"
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     }
 ];
 
@@ -54,43 +90,79 @@ export const series = [
     {
         id: "Stranger Things",
         titulo: "Stranger Things",
-        imagem: "strangerthings.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: "Um grupo de crianças enfrenta forças sobrenaturais.",
-        trailer: "b9EkMc79ZSU?si=86n3gs4YyGFpPgkt"
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
     {
-        id: "Avatar",
-        titulo: "Avatar: A Lenda de Aang",
-        imagem: "avatar.jpg",
-        descricao: "Em um mundo dividido em quatro nações elementares (Água, Terra, Fogo e Ar), Aang é um garoto de 12 anos que acorda após cem anos preso em um iceberg. Sendo o Avatar, a única pessoa capaz de controlar os quatro elementos, ele deve restaurar a paz e deter os ataques expansionistas da Nação do Fogo.",
-        trailer: "8E5oyWQ3Ze0?si=iBtv-WLAwnt0GY6I"
+        id: "Dark",
+        titulo: "Dark",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "Dark é uma série focada em viagens no tempo e multiversos.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
     {
         id: "Breaking Bad",
         titulo: "Breaking Bad",
-        imagem: "breakingbad.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico.",
-        trailer: "tWji6p3FxK0?si=mYxXFttPyrgmxDtG"
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
     {
         id: "Peaky Blinders",
         titulo: "Peaky Blinders",
-        imagem: "peakyblinders.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial.",
-        trailer: "K-RoN7MA5V8?si=IPUFNCxlRRCHjDru"
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
     {
         id: "Round 6",
         titulo: "Round 6",
-        imagem: "round6.jpg",
+        imagem: "Imagens/imagem.jpg",
         descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda.",
-        trailer: "xqkmwzZMy7Q?si=VCulb6Fe4uWiGT-o"
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     },
     {
-        id: "La casa de papel",
-        titulo: "La Casa de Papel",
-        imagem: "lacasadepapel.jpg",
-        descricao: "Um homem genial conhecido como O Professor recruta oito criminosos com codinomes de cidades para invadir a Casa da Moeda da Espanha.",
-        trailer: "To_kVMMu-Ls?si=akYCUR9VNfPJ_2VM"
+        id: "Avatar A lenda de Aang",
+        titulo: "Avatar A lenda de Aang",
+        imagem: "Imagens/imagem.jpg",
+        descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "PREENCHER",
+        genero: "PREENCHER",
+        classificacao: "PREENCHER",
     }
 ];
