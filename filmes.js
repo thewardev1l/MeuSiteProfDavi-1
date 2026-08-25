@@ -4,7 +4,7 @@ export const filmes = [
     {
         id: "interestelar",
         titulo: "Interestelar",
-        imagem: "Imagens/imagem.jpg",
+        imagem: "Imagens/interstellar.jpg",
         descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
         trailer: "i6avfCqKcQo?si=c67bqEGle7cgphln",
 
@@ -16,10 +16,10 @@ export const filmes = [
     },
 
     {
-        id: "Batman",
-        titulo: "Batman",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos.",
+        id: "Capitão América: Guerra Civil",
+        titulo: "Capitão América: Guerra Civil",
+        imagem: "Imagens/capitaoamericaguerracivil.jpg",
+        descricao: "Em Capitão América: Guerra Civil, danos colaterais em missões levam os governos mundiais a exigir o Tratado de Sokóvia, um sistema de controle e supervisão dos Vingadores. Isso divide a equipe: Steve Rogers rejeita a interferência política, enquanto Tony Stark apoia a regulamentação, gerando um conflito ideológico e físico entre os heróis.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
@@ -30,10 +30,10 @@ export const filmes = [
     },
 
     {
-        id: "Ong Bak",
-        titulo: "Ong Bak",
-        imagem: "Imagens/imagem.jpg",
-        descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa.",
+        id: "Homem de Ferro",
+        titulo: "Homem de Ferro",
+        imagem: "Imagens/homemdeferro.jpg",
+        descricao: "O bilionário e inventor Tony Stark é sequestrado por terroristas no Afeganistão. Para escapar, ele constrói uma armadura de alta tecnologia. De volta aos EUA, decide parar de fabricar armas, melhora a armadura e assume a identidade do Homem de Ferro para derrotar seu sócio traidor e salvar o mundo.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
