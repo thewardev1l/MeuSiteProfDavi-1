@@ -10,8 +10,8 @@ export const filmes = [
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "2h 49min",
+        genero: "Ficção científica e aventura",
         classificacao: "14",
     },
 
@@ -24,7 +24,7 @@ export const filmes = [
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "2h 28min",
         genero: "Ação",
         classificacao: "12",
     },
@@ -52,7 +52,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "2h 22min",
         genero: "Ação/Terror",
         classificacao: "14",
     },
@@ -66,7 +66,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "2h 24min",
         genero: "Ação",
         classificacao: "16",
     },
@@ -80,7 +80,7 @@ export const filmes = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
+        duracao: "2h 15min",
         genero: "Terror",
         classificacao: "16",
     }
@@ -96,8 +96,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "Suspense",
+        duracao: "5 Temporadas",
+        genero: "Suspense e ficção científica",
         classificacao: "16",
     },
     {
@@ -109,8 +109,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "5 Temporadas",
+        genero: "Ação, crime, drama, policial e suspense",
         classificacao: "18",
     },
     {
@@ -122,8 +122,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "5 Temporadas",
+        genero: "Drama, suspense e crime",
         classificacao: "18",
     },
     {
@@ -135,8 +135,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "6 Temporadas",
+        genero: "Crime, drama e ficção histórica",
         classificacao: "18",
     },
     {
@@ -148,8 +148,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
+        duracao: "3 Temporadas",
+        genero: "Terror, comédia, ação, guerra, drama, sobrevivência, suspense e romance",
         classificacao: "16",
     },
     {
@@ -161,8 +161,8 @@ export const series = [
         
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "PREENCHER",
-        genero: "PREENCHER",
-        classificacao: "14",
+        duracao: "3 Temporadas",
+        genero: "Animação, ação, comédia, ficção científica e comédia",
+        classificacao: "12",
     }
 ];
