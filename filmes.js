@@ -83,7 +83,164 @@ export const filmes = [
         duracao: "2h 15min",
         genero: "Terror",
         classificacao: "16",
-    }
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    {
+        id: "Homem Aranha",
+        titulo: "Homem Aranha",
+        imagem: "Imagens/homemaranhanovodia.jpg",
+        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        trailer: "ID_YOUTUBE",
+        
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "16",
+    },
+    
 ];
 
 export const series = [
