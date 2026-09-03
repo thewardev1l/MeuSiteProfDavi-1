@@ -142,10 +142,38 @@ export const filmes = [
     },
 
     {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        id: "fnaf2",
+        titulo: "Five Nights at Freddy's 2",
+        imagem: "Imagens/fnaf2.jpg",
+        descricao: "",
+        trailer: "ID_YOUTUBE",
+
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Terror",
+        classificacao: "14",
+    },
+
+    {
+        id: "Gente Grande",
+        titulo: "Gente Grande",
+        imagem: "Imagens/gentegrande.jpg",
+        descricao: "",
+        trailer: "ID_YOUTUBE",
+
+        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
+
+        duracao: "2h 24min",
+        genero: "Ação",
+        classificacao: "12",
+    },
+
+    {
+        id: "It Capítulo 2",
+        titulo: "It Capítulo 2",
+        imagem: "Imagens/it2.jpg",
+        descricao: "",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
@@ -156,35 +184,7 @@ export const filmes = [
     },
 
     {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
-        trailer: "ID_YOUTUBE",
-
-        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
-
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
-    },
-
-    {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
-        trailer: "ID_YOUTUBE",
-
-        // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
-
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
-    },
-
-    {
-        id: "Homem Aranha",
+        id: "H",
         titulo: "Homem Aranha",
         imagem: "Imagens/homemaranhanovodia.jpg",
         descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
@@ -389,7 +389,7 @@ export const series = [
         duracao: "2 Temporadas",
         genero: "Drama, ação e ficção científica",
         classificacao: "16",
-    },
+    },  
 
     {
         id: "the-witcher",
