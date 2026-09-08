@@ -89,13 +89,13 @@ export const filmes = [
         id: "FNAF",
         titulo: "Five Nights at Freddy's: O Pesadelo Sem Fim",
         imagem: "Imagens/fnaf.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        descricao: "O longa é estrelado por Josh Hutcherson como um vigia de segurança problemático que aceita um emprego noturno em uma pizzaria abandonada,a Freddy Fazbear's Pizza. À medida que as madrugadas avançam, ele faz uma descoberta aterrorizante: os mascotes animatrônicos do local estão possuídos pelas almas de crianças assassinadas décadas antes por um serial killer. Para conseguir manter o emprego e garantir a guarda de sua irmã caçula, ele precisará enfrentar um verdadeiro pesadelo vivo.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Terror",
+        duracao: "1h 54min",
+        genero: "Terror sobrenatural, suspense e mistério",
         classificacao: "14",
     },
 
@@ -103,13 +103,13 @@ export const filmes = [
         id: "Pokemon",
         titulo: "Pokémon Detetive Pikachu",
         imagem: "Imagens/pokemon.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        descricao: "O desaparecimento do detetive Harry Goodman faz com que seu filho Tim parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente.Descobrindo que é o único humano capaz de entender e conversar com o monstrinho, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... mas acabam esbarrando em uma conspiração de largas proporções que ameaça pôr em causa essa convivência pacífica.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
+        duracao: "1h 44min",
+        genero: "Aventura, fantasia, ação e cómedia Live-Action",
         classificacao: "12",
     },
 
@@ -117,13 +117,13 @@ export const filmes = [
         id: "Jumanji",
         titulo: "Jumanji",
         imagem: "Imagens/jumanji.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        descricao: "Quatro adolescentes encontram um videogame antigo cuja ação se passa numa floresta tropical. Ao ligarem o aparelho, eles escolhem seus avatares para o desafio, mas são inesperadamente transportados para dentro do universo do jogo, assumindo corpos e habilidades completamente diferentes dos seus. Para sobreviver e retornar ao mundo real, o único jeito é trabalhar em equipe para terminar o jogo.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
         duracao: "2h 24min",
-        genero: "Ação",
+        genero: "Ação, comédia e aventura",
         classificacao: "14",
     },
 
@@ -131,13 +131,13 @@ export const filmes = [
         id: "Reze",
         titulo: "Chainsaw Man: Arco da Reze",
         imagem: "Imagens/reze.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        descricao: "Servindo como a continuação direta da primeira temporada do anime, a trama mostra Denji tentando levar sua vida na Divisão Especial 4 de Caçadores de Demônios.Certo dia, enquanto busca refúgio da chuva, ele acaba conhecendo Reze, a misteriosa e encantadora atendente de um café. Conforme os dois se aproximam e Denji começa a viver a doce ilusão de um romance adolescente, ele descobre que Reze é na verdade uma assassina enviada para obter o coração do Homem-Motosserra, arrastando-o para uma das batalhas mais brutais, perigosas e dolorosas de sua vida.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
+        duracao: "1h 40min",
+        genero: "Animação, ação e fantasia sombria",
         classificacao: "18",
     },
 
@@ -145,13 +145,13 @@ export const filmes = [
         id: "fnaf2",
         titulo: "Five Nights at Freddy's 2",
         imagem: "Imagens/fnaf2.jpg",
-        descricao: "",
+        descricao: "Um ano após os eventos traumáticos na Freddy Fazbear's Pizza, o local virou lenda urbana e inspira o primeiro Fazfest. Enquanto Mike e Vanessa escondem a verdade da jovem Abby, a menina foge para rever os animatrônicos, desencadeando um novo pesadelo e revelando origens sombrias da pizzaria. Você pode conferir a sinopse completa e detalhada na fonte original.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Terror",
+        duracao: "1h 44min",
+        genero: "Terror sobrenatural, mistério e suspense",
         classificacao: "14",
     },
 
@@ -159,84 +159,84 @@ export const filmes = [
         id: "Gente Grande",
         titulo: "Gente Grande",
         imagem: "Imagens/gentegrande.jpg",
-        descricao: "",
+        descricao: "Trinta anos após vencerem um campeonato de basquete na infância, cinco amigos se reencontram para o funeral de seu antigo treinador.Para relembrar os velhos tempos, eles decidem passar o fim de semana do feriado de 4 de Julho juntos com suas respectivas famílias em uma casa no lago. No entanto, com os amigos casados e cheios de filhos, esses homens de família terão de confrontar o fato de não serem mais tão jovens, provando que envelhecer não significa necessariamente amadurecer.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "12",
+        duracao: "1h 42min",
+        genero: "Comédia e família",
+        classificacao: "14",
     },
 
     {
         id: "It Capítulo 2",
         titulo: "It Capítulo 2",
         imagem: "Imagens/it2.jpg",
-        descricao: "",
+        descricao: "Como a cada 27 anos o mal revisita a cidade de Derry, no Maine, Mike percebe que o palhaço Pennywise está de volta. Ele convoca os antigos amigos do Clube dos Otários para honrar a promessa de infância e acabar com o inimigo de uma vez por todas. Mas quando eles retornam às suas origens, precisam se confrontar com traumas nunca resolvidos de suas infâncias, que repercutem até hoje na vida adulta.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
+        duracao: "2h 49min",
+        genero: "Terror",
+        classificacao: "18",
     },
 
     {
-        id: "H",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        id: "Scott Pilgrim",
+        titulo: "Scott Pilgrim Contra o Mundo",
+        imagem: "Imagens/scottpilgrim.jpg",
+        descricao: "Scott Pilgrim é um jovem canadense de 23 anos, baixista da banda de garagem Sex Bob-omb, que se apaixona perdidamente por Ramona Flowers, a garota dos seus sonhos.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
+        duracao: "1h 52min",
+        genero: "Ação, comédia e aventura",
+        classificacao: "12",
     },
 
     {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        id: "Olhos Famintos",
+        titulo: "Olhos Famintos",
+        imagem: "Imagens/olhosfamintos.jpg",
+        descricao: "Durante uma viagem de carro por uma rodovia rural deserta, os irmãos Trish e Darry testemunham um motorista misterioso jogando corpos em um cano perto de uma igreja abandonada. Ao investigarem o local, eles descobrem um covil subterrâneo com centenas de cadáveres mutilados.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
+        duracao: "1h 31min",
+        genero: "Terror e mistério",
+        classificacao: "14",
     },
 
     {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        id: "telefone",
+        titulo: "O Telefone Preto",
+        imagem: "Imagens/telefonepreto.jpg",
+        descricao: "Um garoto de 13 anos é sequestrado por um assassino sádico e trancado em um porão à prova de som. No local, há um telefone desconectado na parede que começa a tocar. Ao atender, ele descobre que consegue ouvir as vozes das vítimas anteriores do assassino, que estão tentando ajudá-lo a escapar.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
+        duracao: "1h 43min",
+        genero: "Terror, suspense e sobrenatural",
+        classificacao: "14",
     },
 
     {
-        id: "Homem Aranha",
-        titulo: "Homem Aranha",
-        imagem: "Imagens/homemaranhanovodia.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes.",
+        id: "divertidamente",
+        titulo: "Divertida Mente",
+        imagem: "Imagens/divertida.jpg",
+        descricao: "Riley é uma garota de 11 anos que precisa lidar com a mudança de sua cidade natal para San Francisco. Em sua mente, operam emoções como Alegria, Medo, Raiva, Nojinho e Tristeza. Lideradas pela Alegria, as emoções tentam manter o bem-estar da menina. Contudo, um incidente na central de controle faz com que Alegria e Tristeza sejam lançadas para longe da sala de comando. Para evitar que decisões equivocadas comprometam a personalidade de Riley, a dupla precisa retornar o quanto antes.",
         trailer: "ID_YOUTUBE",
 
         // ALTERAÇÃO 21/08 - INFORMAÇÕES COMPLEMENTARES
 
-        duracao: "2h 24min",
-        genero: "Ação",
-        classificacao: "16",
+        duracao: "1h 34min",
+        genero: "Animação, comédia dramática, aventura e família",
+        classificacao: "10",
     },  
 
     {
