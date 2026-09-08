@@ -237,12 +237,12 @@ export const filmes = [
         duracao: "2h 24min",
         genero: "Ação",
         classificacao: "16",
-    },
+    },  
 
     {
         id: "senhor-dos-aneis",
         titulo: "O Senhor dos Anéis: A Sociedade do Anel",
-        imagem: "Imagens/senhordosaneis.jpg",
+        imagem: "Imagens/aneis.jpg",
         descricao: "O jovem Frodo recebe a missão de destruir um poderoso anel antes que ele caia nas mãos do Senhor das Trevas.",
         trailer: "ID_YOUTUBE",
         duracao: "2h 58min",
